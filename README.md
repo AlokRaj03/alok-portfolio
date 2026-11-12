@@ -1,94 +1,197 @@
-# ✦ Alok Raj — Personal Portfolio
+# ✦ ALOK RAJ | Developer • Designer • Student Leader
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Alok+Raj+%F0%9F%91%8B;Full+Stack+Developer;UI%2FUX+Designer;Student+Leader+%26+Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=7C9CFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Alok+Raj+%F0%9F%91%8B;Full+Stack+Developer;UI%2FUX+Designer;Creative+Thinker+%26+Student+Leader;Building+Ideas+Into+Reality." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://alok-portfolio-silk.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Website-2563EB?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  A curious mind. A creative thinker. A developer who loves building meaningful things.
+  <a href="https://github.com/AlokRaj03">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About My Portfolio
+## 🌌 My Digital Space
 
-Welcome to my personal portfolio! This website represents my journey, creativity, technical skills, projects, and experiences as a Computer Science Engineering student.
+<p align="center">
+  <a href="https://alok-portfolio-silk.vercel.app/">
+    <img src="./public/images/portfolio-preview.png" width="100%" alt="Alok Raj Personal Portfolio Preview" />
+  </a>
+</p>
 
-I built this portfolio to showcase more than just my technical knowledge — it reflects my personality, learning journey, creative mindset, and leadership experiences.
+<p align="center">
+  <b>A journey of curiosity, creativity, technology and leadership.</b>
+  <br/>
+  <a href="https://alok-portfolio-silk.vercel.app/">Visit Live Portfolio ↗</a>
+</p>
 
-**The vision:** A cinematic, interactive digital experience that tells my story through modern design, smooth animations, and meaningful content.
-
-## ✨ Features
-
-- 🎬 Cinematic dark-themed interface
-- 🌌 Modern blue and violet visual aesthetics
-- ⌨️ Animated typing and text transitions
-- 🎨 Premium UI/UX design
-- 📍 Interactive journey and timeline section
-- 💻 Projects and development showcase
-- 👨‍💻 Technical skills and expertise
-- 🏛️ Student Council leadership experience
-- 📱 Responsive design for different devices
-- ✨ Smooth animations and interactive elements
+---
 
 ## 👨‍💻 About Me
 
-I'm **Alok Raj**, a B.Tech Computer Science and Engineering student at Technocrats Institute of Technology, Bhopal.
+Hey! I'm **Alok Raj**, a Computer Science Engineering student at **Technocrats Institute of Technology, Bhopal**.
 
-I enjoy combining technology with creativity to build interactive websites, digital experiences, and useful applications.
+I'm passionate about developing modern web experiences, designing beautiful interfaces, exploring emerging technologies and turning creative ideas into real-world projects.
 
-My interests include:
+Beyond programming, I actively participate in student leadership and institutional activities as an **Academic Council Officer, Student Council TIT**.
 
-- Full-Stack Web Development
-- Data Structures & Algorithms
-- Java and Problem Solving
-- UI/UX Design
-- Generative AI and Emerging Technologies
-- Creative Design and Digital Experiences
-- Leadership and Team Collaboration
+```javascript
+const alok = {
+    name: "Alok Raj",
+    education: "B.Tech CSE @ TIT Bhopal",
+    roles: [
+        "Developer",
+        "UI/UX Designer",
+        "Student Leader",
+        "Creative Thinker"
+    ],
+    interests: [
+        "Full Stack Development",
+        "Data Structures & Algorithms",
+        "Artificial Intelligence",
+        "UI/UX Design",
+        "Software Engineering"
+    ],
+    mindset: "Learn. Build. Improve. Repeat."
+};
+```
 
-## 🛠️ Tech Stack
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,java,cpp,nodejs,git,github" />
+## ⚡ Technologies & Tools
+
+<p align="center">
+  <b>THE TECHNOLOGIES BEHIND MY DIGITAL WORLD</b>
 </p>
+
+<p align="center">
+  <marquee direction="left" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,vite,nodejs,java,cpp,git,github,figma,canva,vscode&perline=15" alt="Technologies and tools used by Alok Raj" />
+  </marquee>
+</p>
+
+<p align="center">
+  <b>Languages • Frameworks • Libraries • Tools • Design</b>
+</p>
+
+### My Technology Stack
 
 | Category | Technologies |
 |---|---|
-| Frontend | React, TypeScript, JavaScript |
-| Web Development | HTML5, CSS3 |
-| Programming | Java, C++ |
+| Programming | Java, C++, JavaScript |
+| Frontend | HTML5, CSS3, React |
+| Type System | TypeScript |
+| 3D Web | Three.js |
+| Build Tools | Vite |
 | Backend | Node.js |
 | Version Control | Git, GitHub |
-| Design | Figma, Canva |
-| Deployment | Vercel |
+| UI/UX Design | Figma, Canva |
+| Development | VS Code |
 
-## 🌟 My Journey
+---
 
-| Year | Milestone |
-|---|---|
-| 2024 | Started B.Tech in Computer Science & Engineering at TIT Bhopal. |
-| 2025 | Joined Student Council TIT as Assistant Secretary of Cyber Cop Cell. |
-| 2025 | Explored frontend development, UI/UX design and personal projects. |
-| 2026 | Took responsibility as Academic Council Officer, Student Council TIT. |
-| 2026 | Contributed to orientation activities, workshops and SKYVEX '26 planning. |
-| Next | Exploring Full-Stack Development, DSA, Generative AI and open source. |
+## 🚀 My Journey
 
-## 🎯 My Goal
+<p align="center">
+  <i>Every milestone has a story. Every experience builds something new.</i>
+</p>
 
-To continuously learn, create, and innovate by building technology-driven solutions that make a meaningful impact.
+### 2024 — The Beginning
 
-I believe in learning by building, improving through challenges, and growing through collaboration.
+- Started my B.Tech journey in Computer Science & Engineering at TIT Bhopal.
+- Began exploring programming and computer science fundamentals.
+- Developed an interest in web development and technology.
+- Started experimenting with creative digital designs.
 
-## 🔗 Connect With Me
+### 2025 — Learning & Leadership
 
-<p align="left">
+- Joined **Student Council, TIT Bhopal**.
+- Appointed **Assistant Secretary of Cyber Cop Cell**.
+- Explored frontend development and programming languages.
+- Started building personal projects and improving UI/UX design skills.
+- Developed an interest in teamwork, collaboration and student activities.
+
+### 2026 — Growth & Responsibility
+
+- Took responsibility as **Academic Council Officer, Student Council TIT**.
+- Led the student orientation process at TIT Bhopal.
+- Earned NPTEL certifications.
+- Contributed to Student Council's digital presence and website development.
+- Worked on workshop planning and student engagement activities.
+- Contributed to planning the **SKYVEX '26 National Startup Hackathon**.
+- Continued exploring Full-Stack Development, AI and modern web technologies.
+
+### NEXT — The Journey Continues
+
+- Mastering Full-Stack Development.
+- Strengthening Java, DSA and problem-solving.
+- Exploring Generative AI and LLM Engineering.
+- Contributing to open-source projects.
+- Building impactful real-world applications.
+- Learning, experimenting and creating without limits.
+
+<p align="center">
+  <b>Still Learning. Still Building. Always Evolving. ✦</b>
+</p>
+
+---
+
+## 💻 What I Build
+
+- **Web Experiences:** Interactive, responsive and modern websites.
+- **Creative Interfaces:** Beautiful UI/UX and digital experiences.
+- **Personal Projects:** Applications that solve practical problems.
+- **Creative Designs:** Posters, graphics and digital communication.
+- **Technology Experiments:** Exploring AI, 3D web and emerging technologies.
+
+---
+
+## 🎨 Design & Creativity
+
+I believe development is not only about writing code. It's also about how people experience what we build.
+
+My creative workflow includes:
+- UI/UX design and visual hierarchy.
+- Modern typography and color systems.
+- Interactive web layouts.
+- Poster and presentation design.
+- Canva and Figma-based creative work.
+
+---
+
+## 🏛️ Leadership & Activities
+
+**Academic Council Officer — Student Council, TIT Bhopal**
+
+My leadership experience includes:
+- Student orientation and coordination.
+- Student Council website and digital presence.
+- Club activities and student engagement.
+- Workshop and event coordination.
+- Planning and organizing student initiatives.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlokRaj03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlokRaj03&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlokRaj03&theme=tokyonight&hide_border=true" width="75%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/alok-raj1">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -106,7 +209,9 @@ I believe in learning by building, improving through challenges, and growing thr
 ---
 
 <p align="center">
-  <b>Designed & Developed with ❤️ by Alok Raj</b>
+  <b>Designed & Developed by Alok Raj</b>
   <br/>
-  <i>Still learning. Still building. Always evolving.</i>
+  <i>Turning curiosity into creativity, and ideas into reality.</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:111827&height=100&section=footer" width="100%" />
 </p>
